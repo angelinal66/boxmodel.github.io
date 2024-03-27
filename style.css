@@ -1,0 +1,70 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #78cdd3;
+}
+
+img {
+    height: 200px;
+  margin-top: 50px ;
+  margin-left: 10px;
+  border-style: solid;
+  padding: 3px;
+}
+h1{
+  margin-top: 20px ;
+  margin-bottom:40px ;
+  margin-left: 80px;
+  margin-right: 60x;
+  border-style: solid;
+  padding: 50px;
+  border-color: green;
+  background-color: limegreen;
+  
+}
+h3{
+  margin-top: 40px ;
+  margin-left: 60px;
+  margin-right: 5px;
+  border-style: double;
+  border-color: #c65001;
+  padding: 10px;
+  background-color: #ffa200;
+}
+p{
+  margin-top: 30px ;
+  margin-bottom:20px ;
+  margin-left: 90px;
+  margin-right: 20x;
+  border-style: dotted;
+  padding: 20px;
+  border-color: purple;
+  background-color: #c84158;
+}
+ul{
+  margin-top: 32px ;
+  margin-bottom:20px ;
+  margin-left: 20px;
+  margin-right: 65x;
+  border-style: dotted;
+  padding: 20px;
+  background-color: yellow;
+  border-color: orange;
+}
+.dog{
+
+  border-style: solid;
+  border-color: orange;
+  padding: 3px;
+}
+.catss{
+  border-style: solid;
+  border-color: #fff700;
+  padding: 3px;
+}
+.cats{
+  order-style: solid;
+  border-color: #767560;
+  padding: 3px;
+}
+}
